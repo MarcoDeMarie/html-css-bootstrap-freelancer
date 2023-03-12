@@ -1,0 +1,25 @@
+.debug{
+  background-color: #db56564b;
+  border: 1px solid black;
+  min-height: 50px;
+}
+
+.menu{
+  background-color: #6395ad;
+}
+
+.jumbotron{
+  background-color: #5cc7cb;
+  
+}
+.about{
+  background-color: #1abc9c;
+}
+
+.info{
+  background-color: #3a546d;
+}
+
+.copyright{
+  background-color: #2c3e50;
+}
